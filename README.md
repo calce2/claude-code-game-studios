@@ -1,3 +1,36 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**게임 개발 스튜디오형 AI 작업 템플릿**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | AI 작업 계획·분담 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `main` |
+| 주요 구성 | 에이전트·스킬·훅·규칙·문서 템플릿 |
+
+### 주요 기능·내용
+
+- 기획·프로그래밍·아트·오디오·스토리·QA 역할
+- 문서 기준 에이전트 49개·스킬 72개
+- 게임 기획·작업 계획·자동 점검 템플릿
+- Godot·Unity·Unreal 전문가 구성
+
+원본 프로젝트: [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/claude-code-game-studios/edit/main/README.md) · [⚙️ 설정](https://github.com/calce2/claude-code-game-studios/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/claude-code-game-studios/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 <p align="center">
   <h1 align="center">Claude Code Game Studios</h1>
   <p align="center">
